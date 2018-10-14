@@ -3,7 +3,7 @@
 ## Team Members 
 - Ahmed Sherif Mahmoud 
 - Ahmed Sayed Galal 
-- Shaymaa Ahmed 
+- Shaymaa Hamd 
 - Mahmoud Abdel EL Naby 
 - Abdulrahman Mohamed Bishr
 - Ahmed Khaled Salah EL Din 
